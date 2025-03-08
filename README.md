@@ -56,7 +56,7 @@
   <img src="https://github.com/CosminGorun/CosminGorun/blob/main/vivado.png" height="40" alt="vivado logo"  />
 </div>
 
-<h4 align="center">And this principles:</h4>
+<h4 align="center">And these principles:</h4>
 
 <div align="center">
   <img src="https://github.com/CosminGorun/CosminGorun/blob/main/oop.png" height="45" alt="OOP logo"  />
