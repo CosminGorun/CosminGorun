@@ -51,3 +51,4 @@
 </div>
 
 ###
+ <img src="https://github.com/CosminGorun/CosminGorun/blob/main/wallpaper.gif" width=100% height="100%" alt="opengl logo"  />
