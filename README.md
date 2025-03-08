@@ -55,5 +55,12 @@
   <img src="https://github.com/CosminGorun/CosminGorun/blob/main/vivado.png" height="40" alt="vivado logo"  />
 </div>
 
+<div align="center">
+  <h4>About my?</h3>
+  <p>I am a friendly and ambitious student who loves learning and discovering new things. </p>
+  <p>I am passionate about everything related to the IT field, from software development to embedded programming, as well as the potential and opportunities of AI.</p>
+  <p> I enjoy finding creative and efficient solutions to the challenges I encounter.</p>
+</div>
+
 ###
  <img src="https://github.com/CosminGorun/CosminGorun/blob/main/wallpaper.gif" width=100% height="100%" alt="opengl logo"  />
