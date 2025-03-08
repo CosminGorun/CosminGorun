@@ -19,6 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://github.com/CosminGorun/CosminGorun/blob/main/vhdl.png" height="30" alt="vhdl logo"  />
+   <img width="12" />
+  <img src="https://github.com/CosminGorun/CosminGorun/blob/main/sql3.png" height="30" alt="sql logo"  />
 </div>
 
 ###
@@ -47,6 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30" alt="opengl logo"  />
+   <img width="12" />
+  <img src="https://github.com/CosminGorun/CosminGorun/blob/main/vivado.png" height="30" alt="vivado logo"  />
 </div>
 
 ###
