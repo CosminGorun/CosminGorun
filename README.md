@@ -57,8 +57,8 @@
 
 <div align="center">
   <h4>About my?</h3>
-  <p>I am a friendly and ambitious student who loves learning and discovering new things. </p>
-  <p>I am passionate about everything related to the IT field, from software development to embedded programming, as well as the potential and opportunities of AI.</p>
+  <p>👨‍💻 I am a friendly and ambitious student who loves learning and discovering new things.👨‍💻 </p>
+  <p>I am passionate about everything related to the IT field, from software development 🖥️ to embedded programming🤖, as well as the potential and opportunities of AI.👾</p>
   <p> I enjoy finding creative and efficient solutions to the challenges I encounter.</p>
 </div>
 
