@@ -59,7 +59,7 @@
 <h4 align="center">And these principles:</h4>
 
 <div align="center">
-  <img src="https://github.com/CosminGorun/CosminGorun/blob/main/oop.png" height="45" alt="OOP logo"  />
+  <img src="https://github.com/CosminGorun/CosminGorun/blob/main/OOP2.png" height="45" alt="OOP logo"  />
   <img width="8" />
   <img src="https://github.com/CosminGorun/CosminGorun/blob/main/solid.webp" height="45" alt="OOP logo"  />
 </div>
