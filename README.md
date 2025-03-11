@@ -64,4 +64,4 @@
 </div>
 
 ###
- <img src="https://github.com/CosminGorun/CosminGorun/blob/main/wallpaper.gif" width=100% height="100%" alt="opengl logo"  />
+ <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif" width=100% height="100%" alt="mario gif"  />
