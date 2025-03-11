@@ -2,8 +2,6 @@
 <h1 align="center" ><👋 Hello, World! ></h1>
 
 ###
-
-<h3 align="center">How can I help you?</h3>
 <h4 align="center">I know these languages :</h4>
 
 ###
@@ -28,7 +26,7 @@
 
 ###
 
-<h4 align="center">These technologies :</h4>
+<h4 align="center">And these technologies :</h4>
 
 ###
 
@@ -56,13 +54,6 @@
   <img src="https://github.com/CosminGorun/CosminGorun/blob/main/vivado.png" height="40" alt="vivado logo"  />
 </div>
 
-<h4 align="center">And these principles:</h4>
-
-<div align="center">
-  <img src="https://github.com/CosminGorun/CosminGorun/blob/main/OOP2.png" height="45" alt="OOP logo"  />
-  <img width="8" />
-  <img src="https://github.com/CosminGorun/CosminGorun/blob/main/solid.webp" height="45" alt="OOP logo"  />
-</div>
 
 
 <div align="center">
